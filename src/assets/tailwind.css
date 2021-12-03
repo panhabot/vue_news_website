@@ -1,0 +1,11 @@
+@tailwind base;
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&display=swap');
+@tailwind components;
+
+@tailwind utilities;
+@tailwind screens;
+
+.app{
+    padding: .75em 1.75em;
+    font-family: 'Lora', serif;
+}
