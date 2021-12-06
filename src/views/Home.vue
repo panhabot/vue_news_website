@@ -189,28 +189,28 @@
       </div>
       <div class="border bg-black border-black"></div>
     </div>
-    <div class="flex flex-row justify-between py-12">
+    <div class="flex sm:flex-col flex-row justify-between py-12 sm:py-5">
       <div class="flex-1">
         <p class="font-semibold text-xl">Send Me News</p>
         <input class="w-72 mt-5 border-b border-black" placeholder="Enter Your Email" type="text" />
       </div>
       <div class="flex-1">
-        <div class="flex flex-row justify-between">
-          <div class="flex flex-col text-right">
+        <div class="flex flex-row sm:mt-4 justify-between">
+          <div class="flex flex-col text-right sm:text-left">
             <p class="font-semibold ">CONTENT</p>
             <a href="" class="text-sm ">Blog</a>
             <a href=""  class="text-sm ">Podcasts</a>
             <a href="" class="text-sm ">Books</a>
             <a href="" class="text-sm ">Subscription</a>
           </div>
-          <div class="flex flex-col text-right">
+          <div class="flex flex-col text-right sm:text-left">
             <p class="font-semibold">COMPANY</p>
             <a href="" class="text-sm ">About</a>
             <a href="" class="text-sm ">Contact Us</a>
             <a href="" class="text-sm ">Partnership</a>
             <a href="" class="text-sm ">Careers</a>
           </div>
-          <div class="flex flex-col text-right">
+          <div class="flex flex-col text-right sm:text-left">
             <p class="font-semibold">SOCIAL</p>
             <a href="" class="text-sm ">Instagram</a>
             <a href="" class="text-sm ">Facebook</a>
